@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "feesServiceWorkProduct" : "feesServiceWorkProduct",
+  "feesInstanceReference" : "FIR708649",
+  "feesServiceType" : "feesServiceType",
+  "feesInstanceStatus" : "feesInstanceStatus",
+  "feesInitiateActionReference" : "FIAR742512",
+  "feesServiceInputsandOuputs" : "feesServiceInputsandOuputs",
+  "feesInitiateActionRecord" : {},
+  "feesServiceDescription" : "feesServiceDescription",
+  "feesServiceName" : "feesServiceName",
+  "feesPostconditions" : "feesPostconditions",
+  "feesPreconditions" : "feesPreconditions",
+  "feesFeatureSchedule" : "feesFeatureSchedule"
+}

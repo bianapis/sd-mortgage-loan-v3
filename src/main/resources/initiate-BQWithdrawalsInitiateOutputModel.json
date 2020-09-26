@@ -1,0 +1,15 @@
+{
+  "withdrawalsWithdrawalProcessingServiceWorkProduct" : "withdrawalsWithdrawalProcessingServiceWorkProduct",
+  "withdrawalsInitiateActionRecord" : {},
+  "withdrawalsInitiateActionReference" : "WIAR787768",
+  "withdrawalsWithdrawalProcessingServiceInputsandOuputs" : "withdrawalsWithdrawalProcessingServiceInputsandOuputs",
+  "withdrawalProcessing" : "withdrawalProcessing",
+  "withdrawalsFeatureSchedule" : "withdrawalsFeatureSchedule",
+  "withdrawalsPostconditions" : "withdrawalsPostconditions",
+  "withdrawalsWithdrawalProcessingServiceName" : "withdrawalsWithdrawalProcessingServiceName",
+  "withdrawalsInstanceReference" : "WIR700252",
+  "withdrawalsWithdrawalProcessingServiceDescription" : "withdrawalsWithdrawalProcessingServiceDescription",
+  "withdrawalsWithdrawalProcessingServiceType" : "withdrawalsWithdrawalProcessingServiceType",
+  "withdrawalsPreconditions" : "withdrawalsPreconditions",
+  "withdrawalsInstanceStatus" : "withdrawalsInstanceStatus"
+}

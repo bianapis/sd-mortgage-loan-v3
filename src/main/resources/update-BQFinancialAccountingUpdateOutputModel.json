@@ -1,0 +1,13 @@
+{
+  "financialAccountingUpdateActionTaskRecord" : {},
+  "financialAccountingFeatureSchedule" : "financialAccountingFeatureSchedule",
+  "financialAccountingFinancialAccountingServiceInputsandOuputs" : "financialAccountingFinancialAccountingServiceInputsandOuputs",
+  "financialAccountingFinancialAccountingServiceDescription" : "financialAccountingFinancialAccountingServiceDescription",
+  "financialAccountingUpdateActionTaskReference" : "FAUATR716894",
+  "financialAccountingFinancialAccountingServiceType" : "financialAccountingFinancialAccountingServiceType",
+  "financialAccountingFinancialAccountingServiceName" : "financialAccountingFinancialAccountingServiceName",
+  "financialAccountingPreconditions" : "financialAccountingPreconditions",
+  "financialAccountingFinancialAccountingServiceWorkProduct" : "financialAccountingFinancialAccountingServiceWorkProduct",
+  "updateResponseRecord" : {},
+  "financialAccountingPostconditions" : "financialAccountingPostconditions"
+}

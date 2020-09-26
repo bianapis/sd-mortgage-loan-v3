@@ -1,0 +1,28 @@
+{
+  "mortgageLoanArrangementCurrency" : "USD",
+  "mortgageLoanArrangementAccountReference" : "MLAAR708929",
+  "mortgageLoanArrangementParameterType" : "mortgageLoanArrangementParameterType",
+  "mortgageLoanArrangementBookingLocation" : "mortgageLoanArrangementBookingLocation",
+  "mortgageLoanArrangementInstanceReportRecord" : {
+    "mortgageLoanArrangementInstanceReportData" : "mortgageLoanArrangementInstanceReportData",
+    "mortgageLoanArrangementInstanceReportType" : "mortgageLoanArrangementInstanceReportType",
+    "mortgageLoanArrangementInstanceReport" : {}
+  },
+  "mortgageLoanArrangementAccountType" : "mortgageLoanArrangementAccountType",
+  "mortgageLoanArrangementRetrieveActionTaskRecord" : {},
+  "mortgageLoanArrangementRetrieveActionResponse" : "mortgageLoanArrangementRetrieveActionResponse",
+  "mortgageLoanArrangementRegulationReference" : "MLARR787737",
+  "mortgageLoanArrangementSelectedOption" : "mortgageLoanArrangementSelectedOption",
+  "mortgageLoanArrangementSchedule" : "mortgageLoanArrangementSchedule",
+  "mortgageLoanArrangementInstanceAnalysis" : {
+    "mortgageLoanArrangementInstanceAnalysisReport" : {},
+    "mortgageLoanArrangementInstanceAnalysisReportType" : "mortgageLoanArrangementInstanceAnalysisReportType",
+    "mortgageLoanArrangementInstanceAnalysisData" : "mortgageLoanArrangementInstanceAnalysisData"
+  },
+  "mortgageLoanArrangementReference" : "MLAR723416",
+  "mortgageLoanArrangementRegulationType" : "mortgageLoanArrangementRegulationType",
+  "mortgageLoanArrangementRetrieveActionTaskReference" : "MLARATR791126",
+  "mortgageLoanArrangementStatus" : "mortgageLoanArrangementStatus",
+  "mortgageLoanArrangementType" : "mortgageLoanArrangementType",
+  "mortgageLoanArrangementJurisdiction" : "mortgageLoanArrangementJurisdiction"
+}

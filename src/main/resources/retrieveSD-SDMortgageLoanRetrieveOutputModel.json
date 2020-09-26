@@ -1,0 +1,39 @@
+{
+  "mortgageLoanRetrieveActionRecord" : {
+    "mortgageLoanPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "mortgageLoanActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "mortgageLoanRetrieveActionResponse" : "mortgageLoanRetrieveActionResponse",
+  "mortgageLoanOfferedService" : {
+    "mortgageLoanServiceRecord" : {
+      "mortgageLoanServiceType" : "mortgageLoanServiceType",
+      "mortgageLoanServiceVersion" : "mortgageLoanServiceVersion",
+      "mortgageLoanServiceDescription" : "mortgageLoanServiceDescription",
+      "mortgageLoanServicePoliciesandGuidelines" : {
+        "mortgageLoanServiceEligibility" : "mortgageLoanServiceEligibility",
+        "mortgageLoanServicePricingandTerms" : "mortgageLoanServicePricingandTerms",
+        "mortgageLoanServiceIntendedUses" : "mortgageLoanServiceIntendedUses"
+      },
+      "mortgageLoanServiceSchedule" : "mortgageLoanServiceSchedule"
+    },
+    "mortgageLoanServiceReference" : "776158"
+  },
+  "mortgageLoanRetrieveActionTaskReference" : "SRATR795161",
+  "mortgageLoanRetrieveActionTaskRecord" : {}
+}

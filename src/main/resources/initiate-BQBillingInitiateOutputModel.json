@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "billingServiceType" : "billingServiceType",
+  "billingInitiateActionRecord" : {},
+  "billingServiceInputsandOuputs" : "billingServiceInputsandOuputs",
+  "billingFeatureSchedule" : "billingFeatureSchedule",
+  "billingInstanceStatus" : "billingInstanceStatus",
+  "billingPreconditions" : "billingPreconditions",
+  "billingServiceDescription" : "billingServiceDescription",
+  "billingServiceName" : "billingServiceName",
+  "billingInstanceReference" : "BIR777271",
+  "billingServiceWorkProduct" : "billingServiceWorkProduct",
+  "billingInitiateActionReference" : "BIAR715032",
+  "billingPostconditions" : "billingPostconditions"
+}

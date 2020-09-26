@@ -1,0 +1,25 @@
+{
+  "financialAccountingFinancialAccountingServiceDescription" : "financialAccountingFinancialAccountingServiceDescription",
+  "financialAccountingInstanceAnalysis" : {
+    "financialAccountingInstanceAnalysisReport" : {},
+    "financialAccountingInstanceAnalysisReportType" : "financialAccountingInstanceAnalysisReportType",
+    "financialAccountingInstanceAnalysisRecord" : {},
+    "financialAccountingInstanceAnalysisParameters" : "financialAccountingInstanceAnalysisParameters"
+  },
+  "financialAccountingFinancialAccountingServiceType" : "financialAccountingFinancialAccountingServiceType",
+  "financialAccountingFinancialAccountingServiceName" : "financialAccountingFinancialAccountingServiceName",
+  "financialAccountingPreconditions" : "financialAccountingPreconditions",
+  "financialAccountingInstanceReport" : {
+    "financialAccountingInstanceReportRecord" : {},
+    "financialAccountingInstanceReportParameters" : "financialAccountingInstanceReportParameters",
+    "financialAccountingInstanceReportType" : "financialAccountingInstanceReportType",
+    "financialAccountingInstanceReport" : {}
+  },
+  "financialAccountingRetrieveActionTaskRecord" : {},
+  "financialAccountingFeatureSchedule" : "financialAccountingFeatureSchedule",
+  "financialAccountingFinancialAccountingServiceInputsandOuputs" : "financialAccountingFinancialAccountingServiceInputsandOuputs",
+  "financialAccountingFinancialAccountingServiceWorkProduct" : "financialAccountingFinancialAccountingServiceWorkProduct",
+  "financialAccountingPostconditions" : "financialAccountingPostconditions",
+  "financialAccountingRetrieveActionTaskReference" : "FARATR709528",
+  "financialAccountingRetrieveActionResponse" : "financialAccountingRetrieveActionResponse"
+}

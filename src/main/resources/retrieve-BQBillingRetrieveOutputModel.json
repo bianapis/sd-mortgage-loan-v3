@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "billingServiceType" : "billingServiceType",
+  "billingRetrieveActionTaskRecord" : {},
+  "billingServiceInputsandOuputs" : "billingServiceInputsandOuputs",
+  "billingInstanceReport" : {
+    "billingInstanceReportType" : "billingInstanceReportType",
+    "billingInstanceReportRecord" : {},
+    "billingInstanceReportParameters" : "billingInstanceReportParameters",
+    "billingInstanceReport" : {}
+  },
+  "billingRetrieveActionResponse" : "billingRetrieveActionResponse",
+  "billingFeatureSchedule" : "billingFeatureSchedule",
+  "billingPreconditions" : "billingPreconditions",
+  "billingServiceDescription" : "billingServiceDescription",
+  "billingServiceName" : "billingServiceName",
+  "billingServiceWorkProduct" : "billingServiceWorkProduct",
+  "billingPostconditions" : "billingPostconditions",
+  "billingRetrieveActionTaskReference" : "BRATR760007",
+  "billingInstanceAnalysis" : {
+    "billingInstanceAnalysisReportType" : "billingInstanceAnalysisReportType",
+    "billingInstanceAnalysisRecord" : {},
+    "billingInstanceAnalysisReport" : {},
+    "billingInstanceAnalysisParameters" : "billingInstanceAnalysisParameters"
+  }
+}

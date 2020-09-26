@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "billingServiceType" : "billingServiceType",
+  "billingExchangeActionTaskRecord" : {},
+  "billingExchangeActionTaskReference" : "BEATR760010",
+  "billingServiceInputsandOuputs" : "billingServiceInputsandOuputs",
+  "billingFeatureSchedule" : "billingFeatureSchedule",
+  "billingInstanceStatus" : "billingInstanceStatus",
+  "billingPreconditions" : "billingPreconditions",
+  "billingServiceDescription" : "billingServiceDescription",
+  "billingServiceName" : "billingServiceName",
+  "billingExchangeActionResponse" : "billingExchangeActionResponse",
+  "billingServiceWorkProduct" : "billingServiceWorkProduct",
+  "billingPostconditions" : "billingPostconditions"
+}

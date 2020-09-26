@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "billingServiceType" : "billingServiceType",
+  "billingServiceInputsandOuputs" : "billingServiceInputsandOuputs",
+  "billingServiceName" : "billingServiceName",
+  "updateResponseRecord" : {},
+  "billingServiceWorkProduct" : "billingServiceWorkProduct",
+  "billingFeatureSchedule" : "billingFeatureSchedule",
+  "billingUpdateActionTaskRecord" : {},
+  "billingUpdateActionTaskReference" : "BUATR773665",
+  "billingPostconditions" : "billingPostconditions",
+  "billingPreconditions" : "billingPreconditions",
+  "billingServiceDescription" : "billingServiceDescription"
+}

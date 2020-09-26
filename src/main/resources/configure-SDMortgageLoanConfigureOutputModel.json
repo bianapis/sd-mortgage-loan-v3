@@ -1,0 +1,21 @@
+{
+  "mortgageLoanConfigurationActionTaskReference" : "SCATR765419",
+  "mortgageLoanServicingSessionStatus" : "mortgageLoanServicingSessionStatus",
+  "mortgageLoanServiceConfigurationRecord" : {
+    "mortgageLoanServiceConfigurationSettingDescription" : "mortgageLoanServiceConfigurationSettingDescription",
+    "mortgageLoanServiceConfigurationSetup" : {
+      "mortgageLoanServiceConfigurationParameter" : "mortgageLoanServiceConfigurationParameter"
+    },
+    "mortgageLoanServiceSubscription" : {
+      "mortgageLoanServiceSubscriberAccessProfile" : "mortgageLoanServiceSubscriberAccessProfile",
+      "mortgageLoanServiceSubscriberReference" : "756221"
+    },
+    "mortgageLoanServiceStatus" : "mortgageLoanServiceStatus",
+    "mortgageLoanServiceAgreement" : {
+      "mortgageLoanServiceAgreementTermsandConditions" : "mortgageLoanServiceAgreementTermsandConditions",
+      "mortgageLoanServiceUserReference" : "733696",
+      "mortgageLoanServiceAgreementReference" : "721156"
+    }
+  },
+  "mortgageLoanConfigurationActionTaskRecord" : {}
+}
